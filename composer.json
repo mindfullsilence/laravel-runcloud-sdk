@@ -10,7 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "onhover/runcloud-sdk": "v1.1.*"
+    "onhover/runcloud-sdk": "dev-develop"
   },
   "extra": {
     "laravel": {
